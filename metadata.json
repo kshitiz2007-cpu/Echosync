@@ -1,0 +1,6 @@
+{
+  "name": "EchoSync — Multi-Device YouTube Sync",
+  "description": "Listen to YouTube songs in tight real-time sync across phones, tablets, and laptops simultaneously.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
